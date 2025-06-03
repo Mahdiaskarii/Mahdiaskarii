@@ -38,6 +38,6 @@
 
 ### 📈 GitHub Stats
 
-![Mahdiasiikarii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdiasiikarii&show_icons=true&theme=radical)
+![Mahdiaskarii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdiasiikarii&show_icons=true&theme=radical)
 
 ---
